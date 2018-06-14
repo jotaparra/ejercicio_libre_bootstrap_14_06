@@ -1,0 +1,40 @@
+
+.container-fluid {
+  background-color: #F78E69;
+  padding: 0%; /*Esto es para que el contenido no tenga margenes y ocupe todo el navegador*/
+}
+
+#header {
+  text-align: right;
+  color: white;
+  padding: 5%;
+}
+
+.imguno {
+  background-image: url(../img/uno.jpg);
+  padding: 30%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.imgdos {   
+  background-image: url(../img/uno.jpg);
+  padding: 30%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container2 {
+  background-color: #ABE188;
+  width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding: 2%;
+}
+
+.dos {
+  background-color: #F78E69;
+  color: white;
+  padding-top: 2%;
+
+}
